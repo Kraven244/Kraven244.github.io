@@ -1,0 +1,26 @@
+*{margin: auto; padding: 0;font-family: Georgia, 'Times New Roman', Times, sans-serif ;}
+
+body{width: 1903px;; height: 1080px;; background-image: linear-gradient(to right, black 45%,black);}
+
+/*EL fondo y cuerpo*/
+h1{color: rgba(255, 250, 250, 0.489); font: size 6;}
+
+/* La barrita rosa donde va el foro*/
+table {background-color: #705e6c ; color: white; width: 600px;}
+
+/*bienvenida (parte izquierda)*/
+nav {background-color:rgb(255, 255, 255) ;}
+aside {width: 25%; float: left}
+h1{text-align:;padding: 00.5em;color:#d5dadd;font-size: 1.4em; text-align: center;}
+p {text-align: justify;color:#d5dadd;width: 92% ;padding: 0.5px 9px ;font-size: 20px;line-height: 2;float: none;}
+
+/*centro tampoco le muevas aquí al header we xd*/
+article{width:50%; float:inline-start}
+header{align-content: center;}
+
+/*área de pie de página o footer */
+@font-face{font-family:Magical Feather; src:"mi paginaaaaaaaaaaaaaaa";}
+footer h1{ text-align: center;font-size: 1.4em;color: black;padding: 0.7em;}
+footer{clear:both;background-color:#f6f0f2;}
+footer h2{ text-align: center;font-size: 1em;padding: 0.4em;}
+footer a{text-decoration: double;color:black;}
