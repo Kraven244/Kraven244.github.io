@@ -1,0 +1,45 @@
+*{margin: auto; padding: 0;font-family: Georgia, 'Times New Roman', Times, sans-serif ;}
+
+/*Partes de arriba. C es del centro; I de Izquierda y D. de Derecha*/
+
+
+body{width: 1903px;
+     height: 100%;
+     background-image: linear-gradient(to right, rgb(0, 0, 0) 45%,rgb(0, 0, 0));}
+
+/*Estilos de escritura del body*/
+h1 {text-align:center; 
+    font-weight: bold; 
+    text-transform: uppercase; 
+    font-size: 35px;
+    color: snow;}
+
+h2 {text-align:center; 
+    font-weight: bold; 
+    text-transform: uppercase; 
+    font-size: 30px;
+    color: snow;}
+
+#Texto {text-align: justify;
+    font-weight: lighter;
+    font-size: 18px;
+    line-height: +2;
+    color: white;}
+
+    /*Lados: Der es el derecho e Izq el lado izquierdo*/
+#Der {width: 20%;
+    float: right;
+    align-items: center;}
+
+#Izq {width: 20%;
+    float: left;
+    border-color: #C0392B;
+    }
+#Centro {width: 60%;
+    float: inline-start;}
+    
+#I {background-color: rgb(255, 255, 255);
+width: 80%;
+color: snow; 
+line-height: 25px;
+text-align: center;} 
